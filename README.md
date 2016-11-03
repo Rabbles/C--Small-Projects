@@ -14,3 +14,7 @@ Print on screen the times tables of a muultiplicand and a multipler entered by a
 
 ### InvertedTriangle
 A program that takes a number and a width, also a number, as input and then displays a triangle of that width, using that number. 
+
+### Login
+
+Takes a userid and password as input (type string). After 3 wrong attempts user will be rejected. 
