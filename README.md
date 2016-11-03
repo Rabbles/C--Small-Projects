@@ -8,3 +8,6 @@ Print the output of multiplication of three numbers which will be entered by the
 
 ### Operators
 Print on screen the output of adding, subtracting, multiplying and dividing of two numbers which will entered by the user. 
+
+### TimesTables
+Print on screen the times tables of a muultiplicand and a multipler entered by a user.
