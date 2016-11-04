@@ -18,3 +18,7 @@ A program that takes a number and a width, also a number, as input and then disp
 ### Login
 
 Takes a userid and password as input (type string). After 3 wrong attempts user will be rejected. 
+
+### Speed
+
+Takes distance and time as input and displays the speed in kilometers per hour and miles per hour. 
